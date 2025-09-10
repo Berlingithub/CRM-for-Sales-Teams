@@ -1,0 +1,30 @@
+[
+  {
+    "id": "u1",
+    "name": "Admin User",
+    "email": "admin@crm.com",
+    "password": "$2a$10$eynvVyjQbDurG5AIzAm5buz/zOLvR3VyQJMcY0YiIRMqsGCp4m9ei",
+    "role": "admin"
+  },
+  {
+    "id": "u2",
+    "name": "John Manager",
+    "email": "manager@crm.com",
+    "password": "$2a$10$0NM8fC0i1ynWKR92.ZK7.uVghKoUb1P6uRTRWoHsz0TVpY7t8fgxy",
+    "role": "manager"
+  },
+  {
+    "id": "u3",
+    "name": "Alice Rep",
+    "email": "rep@crm.com",
+    "password": "$2a$10$c.17yFw2WBwOioBIEnt7F.51lMe9cAM6aWDUBFOdxsWYx27Ckizqm",
+    "role": "rep"
+  },
+  {
+    "id": "u1757502976216",
+    "name": "Shubham",
+    "email": "shubham6@gmail.com",
+    "password": "$2a$10$ZOjSDfWEpI6RbMcbjcGz0uBTEeZJWXmLxjITbZpdbP1M8N/PMdIke",
+    "role": "rep"
+  }
+]

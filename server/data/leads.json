@@ -1,0 +1,20 @@
+[
+  {
+    "id": "l1757503047259",
+    "name": "shubham",
+    "email": "shubham6@gmail.com",
+    "phone": "+91-xxx-xxx-xxxx",
+    "status": "Qualified",
+    "ownerId": "u1757502976216",
+    "createdAt": "2025-09-10T11:17:27.259Z"
+  },
+  {
+    "id": "l1757530052215",
+    "name": "garry",
+    "email": "garry2@gmail.com",
+    "phone": "+92 4802701702",
+    "status": "Contacted",
+    "ownerId": "u1757502976216",
+    "createdAt": "2025-09-10T18:47:32.215Z"
+  }
+]
