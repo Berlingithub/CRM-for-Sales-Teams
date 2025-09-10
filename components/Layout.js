@@ -49,7 +49,7 @@ export default function Layout({ children }) {
     { name: 'Dashboard', href: '/dashboard', icon: LayoutDashboard },
     { name: 'Leads', href: '/leads', icon: Users },
     { name: 'Opportunities', href: '/opportunities', icon: Target },
-    ...(user.role === 'admin' ? [{ name: 'User Management', href: '/admin', icon: Settings }] : [])
+    { name: 'User Management', href: '/admin', icon: Settings}
   ]
 
   return (
